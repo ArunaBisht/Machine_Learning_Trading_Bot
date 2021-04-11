@@ -43,43 +43,75 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
     
     
    ## Usage
+   As seen from the below SVM classification metrics - 
+   
+   What percent of your predictions were correct for 'sell'? - 43%
+   What percent of your predictions were correct for 'buy'? - 56%
+   
+   What percent of the positive cases did you catch for 'sell'? - 4%
+   What percent of the positive cases did you catch for 'buy'? - 96%
    
    ![](snapshots/svm_classification_report.PNG)
    
-   What percent of your predictions were correct? 
-   
-   What percent of the positive cases did you catch?
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+   As seen from below snapshot using SVM model, 'strategy predicted returns' are higher then 'actual returns'
     
   ![](snapshots/svm_cumm_actual_strategy_returns.PNG)
     
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   
+   As seen from below snapshot using logistics regression model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
+    
    ![](snapshots/cumm_LogisticRegression.PNG)
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
      
+   As seen from the below Logistics Regression classification metrics - 
+   
+   What percent of your predictions were correct for 'sell'? - 44%
+   What percent of your predictions were correct for 'buy'? - 54%
+   
+   What percent of the positive cases did you catch for 'sell'? - 86%
+   What percent of the positive cases did you catch for 'buy'? - 12%
    
    ![](snapshots/LogisticRegression_classification_report.PNG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
+    As seen from below snapshot using AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
+      
    ![](snapshots/cumm_addboost.PNG)
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   
+   As seen from the below AddBoost classification metrics - 
+   
+   What percent of your predictions were correct for 'sell'? - 44%
+   What percent of your predictions were correct for 'buy'? - 54%
+   
+   What percent of the positive cases did you catch for 'sell'? - 86%
+   What percent of the positive cases did you catch for 'buy'? - 12%
    
      
    ![](snapshots/addboost_classification_report.PNG)
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-   
+   As seen from below snapshot using AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
+       
    ![](snapshots/cummulative_decision_tree.PNG)
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+   As seen from the below DecisionTree classification metrics - 
+   
+   What percent of your predictions were correct for 'sell'? - 44%
+   What percent of your predictions were correct for 'buy'? - 54%
+   
+   What percent of the positive cases did you catch for 'sell'? - 86%
+   What percent of the positive cases did you catch for 'buy'? - 12%
   
    ![](snapshots/DecisionTree_classification_report.PNG)
    
