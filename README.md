@@ -45,3 +45,5 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    ## Usage
    
    ![](snapshots/addboost_classification_report.PNG)
+   
+   ![](snapshots/cumm_LogisticRegression.PNG)
