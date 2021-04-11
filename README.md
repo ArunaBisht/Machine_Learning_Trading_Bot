@@ -64,7 +64,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
     
    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-   Results of using second SVM model by changing the parameters like short window and long window, 'strategy predicted returns' are higher then 'actual returns'
+   Results of using 2nd SVM model by changing the parameters like short window and long window, 'strategy predicted returns' are higher then 'actual returns'
     
   ![](snapshots/second_model_window_times.PNG)
   
