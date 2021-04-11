@@ -40,3 +40,6 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 2. Install the PyViz packages by using the conda install command as follows:
     conda install -c plotly plotly=4.13.
     conda install -c pyviz hvplot
+    
+    
+   ## Usage
