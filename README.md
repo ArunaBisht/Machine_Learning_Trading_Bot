@@ -43,7 +43,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
     
     
    ## Usage
-   As seen from the below SVM classification metrics - 
+   Results of SVM classification metrics - 
    
    What percent of your predictions were correct for 'sell'? - 43%
    What percent of your predictions were correct for 'buy'? - 56%
@@ -55,19 +55,19 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
-   As seen from below snapshot using SVM model, 'strategy predicted returns' are higher then 'actual returns'
+   Results of using SVM model, 'strategy predicted returns' are higher then 'actual returns'
     
   ![](snapshots/svm_cumm_actual_strategy_returns.PNG)
     
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-   As seen from below snapshot using logistics regression model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
+   Results of logistics regression model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
     
    ![](snapshots/cumm_LogisticRegression.PNG)
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
      
-   As seen from the below Logistics Regression classification metrics - 
+   Results of Logistics Regression classification metrics - 
    
    What percent of your predictions were correct for 'sell'? - 44%
    What percent of your predictions were correct for 'buy'? - 54%
@@ -80,13 +80,13 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-    As seen from below snapshot using AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
+    Results of AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
       
    ![](snapshots/cumm_addboost.PNG)
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
-   As seen from the below AddBoost classification metrics - 
+   Results of AddBoost classification metrics - 
    
    What percent of your predictions were correct for 'sell'? - 44%
    What percent of your predictions were correct for 'buy'? - 54%
@@ -99,13 +99,13 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-   As seen from below snapshot using AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
+   Results of AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
        
    ![](snapshots/cummulative_decision_tree.PNG)
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
-   As seen from the below DecisionTree classification metrics - 
+   Results of DecisionTree classification metrics - 
    
    What percent of your predictions were correct for 'sell'? - 44%
    What percent of your predictions were correct for 'buy'? - 54%
@@ -118,3 +118,4 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
   
+  Conclusion is SVM model has significantyly god results because the strategic predicted returns are coming higher then actual returns. And, when we used different model like     Logistic regression, AdBoost and Decision Tree it improved results significantly .
