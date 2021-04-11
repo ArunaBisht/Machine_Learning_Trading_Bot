@@ -56,6 +56,8 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
    Results of using SVM model, 'strategy predicted returns' are higher then 'actual returns'
+   
+  ![](snapshots/first_model_window_times.PNG)
     
   ![](snapshots/svm_cumm_actual_strategy_returns.PNG)
     
