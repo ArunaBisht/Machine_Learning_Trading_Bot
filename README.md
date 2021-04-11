@@ -59,6 +59,15 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
     
   ![](snapshots/svm_cumm_actual_strategy_returns.PNG)
     
+    
+   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+   Results of using second SVM model by changing the parameters like short window and long window, 'strategy predicted returns' are higher then 'actual returns'
+    
+  ![](snapshots/second_model_window_times.PNG)
+  
+  ![](snapshots/second_svm_model.PNG)
+  
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
    Results of logistics regression model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
