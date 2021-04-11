@@ -65,6 +65,8 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
    Results of using 2nd SVM model by changing the parameters like short window and long window, 'strategy predicted returns' are higher then 'actual returns'
+   
+   What impact resulted from increasing or decreasing either or both of the SMA windows? - the predicted strategy returns are coming same as actual returns as seen from the cummulative graph plot.
     
   ![](snapshots/second_model_window_times.PNG)
   
@@ -128,5 +130,6 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
+  Evalutaion report - 
   
   Conclusion is SVM model has significantyly god results because the strategic predicted returns are coming higher then actual returns. And, when we used different model like     Logistic regression, AdBoost and Decision Tree it improved results significantly .
