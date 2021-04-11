@@ -66,9 +66,9 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    ![](snapshots/cumm_LogisticRegression.PNG)
    
    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   
      
-   ![](snapshots/LogisticRegression_classification_report.PNG.PNG)
+   
+   ![](snapshots/LogisticRegression_classification_report.PNG)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
