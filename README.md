@@ -45,6 +45,10 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    ## Usage
    
    ![](snapshots/svm_classification_report.PNG)
+   
+   What percent of your predictions were correct? 
+   
+   What percent of the positive cases did you catch?
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
