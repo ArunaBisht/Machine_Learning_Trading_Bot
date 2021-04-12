@@ -95,7 +95,7 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
    
     Results of AdBoost model, 'strategy predicted returns' are higher then 'actual returns' in starting and then goes down towards the end.
       
-   ![](snapshots/cumm_addboost.PNG)
+   ![](snapshots/cumm_addboost..PNG)
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
