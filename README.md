@@ -132,4 +132,4 @@ To install PyViz and its dependencies in your Conda dev environment, complete th
  
   Evalutaion report - 
   
-  Conclusion is SVM model has significantyly god results because the strategic predicted returns are coming higher then actual returns. And, when we used different model like     Logistic regression, AdBoost and Decision Tree it improved results significantly .
+  Conclusion is SVM model has significantyly god results because the strategic predicted returns are coming higher then actual returns. And, when we used different model like     Logistic regression, AdBoost and Decision Tree it improved results significantly ..
