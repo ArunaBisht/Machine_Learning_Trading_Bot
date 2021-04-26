@@ -1,3 +1,5 @@
+   ![](snapshots/intro_14.PNG)
+
 # Machine_Learning_Trading_Bot-
 One of the top five financial advisory firms constantly competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, firm has heavily profited by using computer algorithms that can buy and sell faster than human traders. The speed of these transactions gave firm a competitive advantage early on. But, people still need to specifically program these systems, which limits their ability to adapt to new data. 
 
